@@ -3,6 +3,9 @@
 
 Java Witnesses is a new take on the classic Snake game, developed by a team of 4 junior developers during a 1-week challenge at the <Academia de Código_> bootcamp
 
+![giphy (8)](https://user-images.githubusercontent.com/130545617/235030057-58729c4d-92fd-4f3b-b204-653c0c5fe901.gif)
+
+
 
 The game is inspired by the bootcamp itself, featuring quotes and jokes from the program. The storyline revolves around Java Witnesses, who try to convert junior developers to the "word of Java"
 However, something is diverting them from their path, and it's up to the player to guide the line of student faces following the master coder (teacher of Java) to safety.
