@@ -1,5 +1,5 @@
-Java Witnesses
-About the Game
+#Java Witnesses
+##About the Game
 Java Witnesses is a new take on the classic Snake game, developed by a team of 4 junior developers during a 1-week challenge at the <Academia de Código_> bootcamp
 
 
